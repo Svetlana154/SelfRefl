@@ -6,6 +6,8 @@ This repository includes:
 2. The `.parquet` files of the processed datasets used in the self-correction experiments
 3. The iteration-0 scripts for Qwen2.5, Llama3.2 and Gemma2 for generating the initial response in the QA task
 4. The iteration-n scripts for Qwen2.5, Llama3.2 and Gemma2 for running self-correction on the initial response
+5. The scripts required to compute the self-consistency baseline for all models on all datasets
+6. The results obtained from evaluating the refined responses from iterative self-correction
 
 > Please note that all the scripts presented in this repository may have been modified to avoid leakage of personal API keys and filepaths. Thus, in order to replicate the results obtained in the paper, the scripts may need to be supplemented with the missing information.
 
