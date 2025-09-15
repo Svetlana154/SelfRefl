@@ -1,0 +1,2 @@
+,exact_match,rouge1,rouge2,rougeL,rougeLsum,meteor,bert_score_avg_precision,bert_score_avg_recall,bert_score_avg_f1,bert_score_avg_precision_from_best_f1,bert_score_avg_recall_from_best_f1,iteration,summac_conv_scores
+0,0.2626,0.364042010821939,0.24447475402549498,0.3623511903663458,0.3623159962567696,0.3230636871793798,0.8773301325082778,0.8758228064537048,0.8758082503437996,0.8770328282475471,0.8755840788006782,0,0.2642422185778618
