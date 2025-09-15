@@ -1,5 +1,5 @@
 # SelfRefl
-Code and data used to implement the experiments for the paper _"When One Size Doesn’t Fit All: A Study on Intrinsic Iterative Self-Correction in LLMs for Hallucination Control"_ by S. Esina and D. Inkpen. Please find the full paper at: [Link to be confirmed]
+Code and data used to implement the experiments for the paper _"When One Size Doesn’t Fit All: A Study on Intrinsic Iterative Self-Correction in LLMs for Hallucination Control"_ by S. Esina and D. Inkpen.
 
 This repository includes:
 1. The initial scripts for loading and processing the datasets (SQUAD 2.0 and TruthfulQA)
